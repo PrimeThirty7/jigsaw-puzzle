@@ -1,3 +1,3 @@
-# Jigsaw Puzzle
+# Jigsaw-Puzzle
 
-## A simple web page based jigsaw puzzle
+##### A simple web page based jigsaw puzzle
